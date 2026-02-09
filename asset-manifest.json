@@ -1,21 +1,18 @@
 {
   "files": {
-    "main.css": "/rohitsharma/static/css/main.779b8061.css",
-    "main.js": "/rohitsharma/static/js/main.98016275.js",
-    "static/media/aboutBW.jpg": "/rohitsharma/static/media/aboutBW.849c5d6b8c8ee7b292af.jpg",
-    "static/media/project2.webp": "/rohitsharma/static/media/project2.fc906070e9796abe3650.webp",
-    "static/media/profileBW.jpg": "/rohitsharma/static/media/profileBW.2815a458ccdf09cd4e8f.jpg",
-    "static/media/project3.webp": "/rohitsharma/static/media/project3.b094b696f75369270c95.webp",
-    "static/media/project1.webp": "/rohitsharma/static/media/project1.f2c54a35bc5d07af37ea.webp",
-    "static/media/woman1.png": "/rohitsharma/static/media/woman1.bf207e1501b3e3a89339.png",
-    "static/media/woman2.png": "/rohitsharma/static/media/woman2.1badb7321889e9b9ceaf.png",
-    "static/media/man.png": "/rohitsharma/static/media/man.58008a565ab6f0db4d93.png",
-    "index.html": "/rohitsharma/index.html",
-    "main.779b8061.css.map": "/rohitsharma/static/css/main.779b8061.css.map",
-    "main.98016275.js.map": "/rohitsharma/static/js/main.98016275.js.map"
+    "main.css": "/react-gh-pages/static/css/main.8195ff99.css",
+    "main.js": "/react-gh-pages/static/js/main.3b3a2f70.js",
+    "static/media/aboutBW.jpg": "/react-gh-pages/static/media/aboutBW.849c5d6b8c8ee7b292af.jpg",
+    "static/media/project2.webp": "/react-gh-pages/static/media/project2.fc906070e9796abe3650.webp",
+    "static/media/profileBW.jpg": "/react-gh-pages/static/media/profileBW.2815a458ccdf09cd4e8f.jpg",
+    "static/media/project3.webp": "/react-gh-pages/static/media/project3.b094b696f75369270c95.webp",
+    "static/media/project1.webp": "/react-gh-pages/static/media/project1.f2c54a35bc5d07af37ea.webp",
+    "index.html": "/react-gh-pages/index.html",
+    "main.8195ff99.css.map": "/react-gh-pages/static/css/main.8195ff99.css.map",
+    "main.3b3a2f70.js.map": "/react-gh-pages/static/js/main.3b3a2f70.js.map"
   },
   "entrypoints": [
-    "static/css/main.779b8061.css",
-    "static/js/main.98016275.js"
+    "static/css/main.8195ff99.css",
+    "static/js/main.3b3a2f70.js"
   ]
 }
